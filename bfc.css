@@ -231,3 +231,12 @@ h1 {
     color: #555;
     user-select: none;
 }
+
+#r-l {
+    margin-top:1%;
+    bottom: 1px;
+    color: #534343;
+    font-size: 3mm;
+    cursor: pointer;
+    user-select: none;
+}
